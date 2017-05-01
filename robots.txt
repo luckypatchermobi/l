@@ -1,70 +1,23 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Allow: /
+
 User-agent: MJ12bot
 Disallow: /
 
 User-agent: rogerbot
 Disallow: /
 
-user-agent: AhrefsBot
+User-agent: AhrefsBot
 Disallow: /
 
 User-agent: SurveyBot
 Disallow: /
+
 User-agent: Updownerbot
 Disallow: /
-#Alexa
+
 User-agent: ia_archiver
 Disallow: /
-
-User-agent: moget
-User-agent: ichiro
-Disallow: /
-
-
-User-agent: NaverBot
-User-agent: Yeti
-Disallow: /
-
-
-User-agent: sogou spider
-Disallow: /
-
-
-User-agent: YoudaoBot
-Disallow: /
-
-
-User-agent: EasouSpider
-Disallow: /
-
-
-User-agent: Synapse
-Disallow: /
-
-
-User-agent: MJ12bot
-Disallow: /
-
-
-User-agent: XoviBot 
-Disallow: /
-
-
-User-agent: Mail.RU_Bot
-Disallow: /
-
-
-User-agent: sistrix
-Disallow: /
-
-# cb/nutch 
-User-agent: cb/nutch
-Disallow: /
-
-# Python-urllib
-User-agent: Python-urllib
-Disallow: /
-
-# CCBot Apache Bot ve Crawler tarama
-User-agent: CCBot
-Disallow: /
-
